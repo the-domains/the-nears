@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[We are...the Nears!]]></title>
+        <description><![CDATA[We are...the Nears!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 01:36:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LoMaNashville]]></title>
+            <description><![CDATA[<article><h1>LoMaNashville</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df0f7a99f19d0cefc22daaa9cb3d4362d577fd9f.jpg"></article>]]></description>
+            <link>https://www.etsy.com/shop/LoMaNashville</link>
+            <guid isPermaLink="false">41a72ff6-7761-4171-aa37-c180b15652fe</guid>
+            <pubDate>Thu, 10 Dec 2015 01:36:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
