@@ -1,6 +1,6 @@
 name: The Nears
 favicon: null
-layout_spectrum: 0.68627
+layout_spectrum: 0.87451
 typography_spectrum: 0.45592
 title: 'We are...the Nears!'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#ffdd88'
     - '#6c42b8'
   brandStrength: 0
-  lightness: 0
+  lightness: 0.0625
   saturation: 0
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
