@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[We are...the Nears!]]></title>
         <description><![CDATA[We are...the Nears!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-nears/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 01:36:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 01:39:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-nears/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.ericnear.com/wp-content/uploads/2014/10/Piano1055.jpg">]]></description>
+            <link>https://thegrid.ai/the-nears/6a8fb74d-e08e-4834-ba9b-1be2b181bcf1/index.html</link>
+            <guid isPermaLink="false">6a8fb74d-e08e-4834-ba9b-1be2b181bcf1</guid>
+            <pubDate>Thu, 10 Dec 2015 01:39:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LoMaNashville]]></title>
             <description><![CDATA[<article><h1>LoMaNashville</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df0f7a99f19d0cefc22daaa9cb3d4362d577fd9f.jpg"></article>]]></description>
