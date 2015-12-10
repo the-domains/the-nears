@@ -1,0 +1,28 @@
+name: The Nears
+favicon: null
+layout_spectrum: 0.3304778756573796
+typography_spectrum: 0.8970804254058748
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.42525122012011707
+  lightness: 0.7920751783531159
+  saturation: 0.5859286452177912
+  rhythmicContrast: 0.7779674963094294
+purpose: []
