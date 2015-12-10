@@ -4,8 +4,15 @@
         <description><![CDATA[We are...the Nears!]]></description>
         <link>https://thegrid.ai/the-nears/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 02:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 03:55:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-nears/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello everyone!]]></title>
+            <description><![CDATA[<article><h1>Hello everyone!</h1><p>null</p></article>]]></description>
+            <link>https://thegrid.ai/the-nears/hello-everyone/index.html</link>
+            <guid isPermaLink="false">8ab5e8c9-5b53-4554-9575-1b206f63342c</guid>
+            <pubDate>Thu, 10 Dec 2015 03:54:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eric Near]]></title>
             <description><![CDATA[<article><h1>Eric Near</h1><p>As a songwriter, Eric Near's roots are found in his influences: The Beatles, Barenaked Ladies, and They Might Be Giants are examples of artists who shaped Eric's vision of what a song should be made from. From writing simple tunes in high school to play for friends, Eric honed his skills as a member of ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfd194fd9264b79a176d6c187aa97b0dee9ebe15.jpg"></article>]]></description>
