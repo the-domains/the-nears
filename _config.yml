@@ -1,29 +1,39 @@
-name: The Nears
-favicon: null
-layout_spectrum: 0.90784
-typography_spectrum: 0.15004
 title: 'We are...the Nears!'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 1
+  brandColors:
+    - '#040405'
+    - '#FFF9E9'
+    - '#BCB49B'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: The Nears
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0086ff'
-    - '#ff6a63'
-    - '#0d0b16'
-    - '#ffdd88'
-    - '#6c42b8'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.15004
+layout_spectrum: 0.90784
