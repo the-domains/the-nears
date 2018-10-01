@@ -1,15 +1,16 @@
 ---
 title: The End (for now)
-datePublished: '2016-05-12T14:33:20.099Z'
-dateModified: '2016-05-12T14:32:44.391Z'
+datePublished: '2018-10-01T17:29:19.789Z'
+dateModified: '2018-09-30T14:40:08.249Z'
 author: []
 description: ''
-starred: false
 sourcePath: _posts/2016-05-12-the-end-for-now.md
+publisher: {}
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+starred: false
+datePublishedOriginal: '2018-10-01T17:29:19.789Z'
+_type: Blurb
 
 ---
 # The End (for now)
