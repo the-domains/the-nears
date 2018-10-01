@@ -1,5 +1,32 @@
-title: The Nears TravelBlog
-purpose: []
+typography_spectrum: 0.9437212962657213
+color:
+  saturation: 0.8197269402444363
+  brandStrength: 0.2688293647952378
+  lightness: 0.2527414229698479
+  brandColors:
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
+  rhythmicContrast: 0.5743861806113273
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6239018999040127
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Justin Near
+name: The Nears
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,28 +39,10 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 0.8723404
-  brandColors:
-    - '#040405'
-    - '#FFF9E9'
-    - '#BCB49B'
-  rhythmicContrast: 0.7617021
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: The Nears
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.15004
-layout_spectrum: 1
+title: The Nears TravelBlog
+description: 'Homeschool Traveling, One Trip at a Time'
+purpose: []
+content: []
+github: true
+content_rating:
+  adult: false
